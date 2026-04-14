@@ -1,6 +1,6 @@
 # Submission notes
 
-Use this text in your PR description or email to the reviewer.
+These are the notes submitted with the take-home (same content as the Pull Request description). Keeping this file in the repo makes the submission easy to find and review.
 
 ## How to run
 
